@@ -30,3 +30,9 @@
   font-size: 0.5rem;
   text-align: center;
 }
+
+@media (max-width:35em){
+  .chart-bar__inner{
+    width: .7rem;
+  }
+}
