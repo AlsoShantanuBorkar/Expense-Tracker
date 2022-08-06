@@ -4,5 +4,4 @@
 - Can add new expenses 
 - Can filter among existing expenses
 - My Very First React Project
-[Live Site][https://expense-tracker-sb.vercel.app/]
-
+- https://expense-tracker-sb.vercel.app/
